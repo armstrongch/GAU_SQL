@@ -33,6 +33,8 @@ begin
 			@GameId
 		from Player;
 		
+		select @
+		
 	end
 	
 end
